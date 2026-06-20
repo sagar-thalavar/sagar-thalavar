@@ -32,17 +32,17 @@ I am a **Data Science Engineering student** (3rd Year) at New Horizon College, B
 
 Here are a few projects I've built that are live on the web:
 
-*   **[PI Collision Simulator](https://github.com/sagar-thalavar/pi-collision-simulator)** — *Physics + math curiosity turned into an interactive browser simulator.* ([Live Link](https://pi-collision-simulator.vercel.app/))
-*   **[Mouse Practice](https://sagar-mouse-practice.netlify.app/)** — *A browser-based training space for cursor precision and motor control.* ([Live Link](https://sagar-mouse-practice.netlify.app/))
-*   **[DataOps Zeta](https://dataops-zeta.vercel.app/)** — *A web system designed for visualizing data operations and database workflows.* ([Live Link](https://dataops-zeta.vercel.app/))
-*   **[One Last Two](https://one-last-two.vercel.app/)** — *A college mini-project with a clean, fully-functional web interface.* ([Live Link](https://one-last-two.vercel.app/))
+*   **[PI Collision Simulator](https://github.com/sagar-thalavar/pi-collision-simulator)** — *Physics + math curiosity turned into an interactive browser simulator.* ([Live Link](https://collision.sagarthalavar.in))
+*   **[Mouse Practice](https://github.com/sagar-thalavar/Mouse-Click-Practice)** — *A browser-based training space for cursor precision and motor control.* ([Live Link](https://click.sagarthalavar.in))
+*   **[DataOps Zeta](https://data.sagarthalavar.in)** — *A web system designed for visualizing data operations and database workflows.* ([Live Link](https://data.sagarthalavar.in))
+*   **[Equilibrium](https://github.com/sagar-thalavar/last-one)** — *A college project designed as a life-balancing planner application.* ([Live Link](https://equilibrium.sagarthalavar.in))
 
 ---
 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagar-thalavar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sagar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagar-thalavar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&hide=issues,contribs" alt="Sagar's GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-thalavar&theme=tokyonight&hide_border=true" alt="Sagar's Contribution Streak" />
 </p>
