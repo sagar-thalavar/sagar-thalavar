@@ -32,11 +32,11 @@ I am a **Data Science Engineering student** (3rd Year) at New Horizon College, B
 
 Here are a few projects I've built that are live on the web:
 
+*   **[Guestbook](https://github.com/sagar-thalavar/guestbook)** — *A visitor journal where guests can sign in, leave a selfie and a memory, and browse a public wall of moments.* ([Live Link](https://sagarthalavar.in/guestbook))
 *   **[PI Collision Simulator](https://github.com/sagar-thalavar/pi-collision-simulator)** — *Physics + math curiosity turned into an interactive browser simulator.* ([Live Link](https://collision.sagarthalavar.in))
 *   **[Mouse Practice](https://github.com/sagar-thalavar/Mouse-Click-Practice)** — *A browser-based training space for cursor precision and motor control.* ([Live Link](https://click.sagarthalavar.in))
 *   **[DataOps Zeta](https://data.sagarthalavar.in)** — *A web system designed for visualizing data operations and database workflows.* ([Live Link](https://data.sagarthalavar.in))
 *   **[Equilibrium](https://github.com/sagar-thalavar/last-one)** — *A college project designed as a life-balancing planner application.* ([Live Link](https://equilibrium.sagarthalavar.in))
-*   **[Guestbook](https://github.com/sagar-thalavar/guestbook)** — *A visitor journal where guests can sign in, leave a selfie and a memory, and browse a public wall of moments.* ([Live Link](https://sagarthalavar.in/guestbook))
 
 ---
 
