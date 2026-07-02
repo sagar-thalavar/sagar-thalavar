@@ -14,7 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Random delay (spreads commits across the day)
+      - name: Random delay (spreads commits across the day, skipped on manual trigger)
+        if: github.event_name == 'schedule'
         run: sleep $((RANDOM % 57600))   # up to 16 hours of random offset
 
       - name: Make 1–5 random commits
