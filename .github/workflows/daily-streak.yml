@@ -5,6 +5,9 @@ on:
     - cron: '0 3 * * *'   # base trigger at 03:00 UTC; actual commits land at random times via sleep
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   commit:
     runs-on: ubuntu-latest
