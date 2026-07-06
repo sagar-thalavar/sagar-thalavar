@@ -4,7 +4,7 @@ This is a future plans doc.
 
 - **Visitor counter** — Show the number of visitors or total visits on the page, updated dynamically in real time.
 
-- **Admin auto-approve** — The admin account (sagarthalavar509@gmail.com) should be automatically approved without requiring any manual permission grant.
+- ~~**Admin auto-approve**~~ ✅ Done — Admin entries are instantly approved on submission via role check in `queries.ts` + Supabase DB trigger sets role.
 
 - **Colorful theme** — A third theme option alongside dark and light mode, with a colorful design built from scratch with a personal touch.
 
