@@ -11,6 +11,17 @@ Last updated: 2026-07-05
 **Live:** https://sagarthalavar.in
 **Stack:** React + TypeScript + Vite, hosted on Vercel
 
+### Subdomains
+
+| Subdomain | Project |
+|---|---|
+| `sagarthalavar.in` | Folio (main portfolio) |
+| `sagarthalavar.in/guestbook` | Guestbook (proxied, not a subdomain) |
+| `collision.sagarthalavar.in` | PiCollision: Mathematical Simulator |
+| `click.sagarthalavar.in` | ClickCraft: Mouse Precision Trainer |
+| `data.sagarthalavar.in` | DataOps Zeta: PostgreSQL Playground |
+| `equilibrium.sagarthalavar.in` | Equilibrium: Life Balance Tracker |
+
 ### Pages & Routes
 
 | Route | Component | What it does |
@@ -51,11 +62,11 @@ Last updated: 2026-07-05
 
 ### Admin page (`/admin`)
 
-- Password-protected (email + password login via Supabase Auth)
-- Only accessible to the account owner
+- Login: **email + password** (credentials set directly in Supabase Auth — not Google OAuth)
+- Only accessible to the account owner (sagarthalavar509@gmail.com)
 - Features:
   - Create, edit, delete blog posts
-  - Toggle published/draft status
+  - Toggle published/draft status — decide whether a post goes live or stays as draft
   - Markdown editor with live preview
   - Manage tab + Editor tab
 
