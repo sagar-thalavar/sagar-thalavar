@@ -35,17 +35,19 @@ jobs:
             git commit -m "chore: daily log $(date -u '+%Y-%m-%d %H:%M')"
           done
 
-      - name: Bust README stats-image cache
+      - name: Update static stats SVGs
         run: |
           git config user.name "sagar-thalavar"
           git config user.email "164482798+sagar-thalavar@users.noreply.github.com"
 
-          today="$(date -u '+%Y-%m-%d')"
-          sed -i -E "s/(cb=)[0-9]{4}-[0-9]{2}-[0-9]{2}/\1${today}/g" README.md
+          # Download the fresh SVGs
+          curl -s -o github-stats.svg "https://github-stats-extended.vercel.app/api?username=sagar-thalavar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&hide=issues,contribs"
+          curl -s -o streak-stats.svg "https://streak-stats.demolab.com?user=sagar-thalavar&theme=tokyonight&hide_border=true"
 
-          if ! git diff --quiet README.md; then
-            git add README.md
-            git commit -m "chore: refresh stats-image cache-bust ${today}"
+          # Add and commit the updated SVGs if they changed
+          git add github-stats.svg streak-stats.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update static stats SVGs for $(date -u '+%Y-%m-%d')"
           fi
 
           git push
