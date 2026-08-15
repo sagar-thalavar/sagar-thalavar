@@ -45,7 +45,7 @@ Here are a few projects I've built that are live on the web:
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=sagar-thalavar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&hide=issues,contribs&cb=2026-08-13" alt="Sagar's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-thalavar&theme=tokyonight&hide_border=true&cb=2026-08-13" alt="Sagar's Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sagar-thalavar&theme=tokyonight&hide_border=true&cb=2026-08-13" alt="Sagar's Contribution Streak" />
 </p>
 
 ---
