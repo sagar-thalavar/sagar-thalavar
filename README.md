@@ -30,13 +30,16 @@ I am a **Data Science Engineering student** (3rd Year) at New Horizon College, B
 
 ### 🚀 Highlighted Work
 
-Here are a few projects I've built that are live on the web:
+Here are the projects I have built and deployed live:
 
-*   **[Guestbook](https://github.com/sagar-thalavar/guestbook)** — *A visitor journal where guests can sign in, leave a selfie and a memory, and browse a public wall of moments.* ([Live Link](https://sagarthalavar.in/guestbook))
-*   **[PI Collision Simulator](https://github.com/sagar-thalavar/pi-collision-simulator)** — *Physics + math curiosity turned into an interactive browser simulator.* ([Live Link](https://collision.sagarthalavar.in))
-*   **[Mouse Practice](https://github.com/sagar-thalavar/Mouse-Click-Practice)** — *A browser-based training space for cursor precision and motor control.* ([Live Link](https://click.sagarthalavar.in))
-*   **[DataOps Zeta](https://data.sagarthalavar.in)** — *A web system designed for visualizing data operations and database workflows.* ([Live Link](https://data.sagarthalavar.in))
-*   **[Equilibrium](https://github.com/sagar-thalavar/last-one)** — *A college project designed as a life-balancing planner application.* ([Live Link](https://equilibrium.sagarthalavar.in))
+*   **[Guestbook: A Visitor Journal](https://github.com/sagar-thalavar/guestbook)** — *A visitor journal featuring GitHub OAuth 2.0 authentication, browser camera stream capture, and real-time comment synchronization via Supabase PostgreSQL replication.* ([Live Link](https://sagarthalavar.in/guestbook))
+*   **[Mentorship & Booking Checkout Gateway](https://github.com/sagar-thalavar/folio)** — *An interactive booking service catalog with dynamic pricing inputs and a dynamically loaded Razorpay payment checkout script for order processing and Supabase logging.* ([Live Link](https://www.sagarthalavar.in/playground))
+*   **[Treasure Hunt: A Geolocation Game](https://github.com/sagar-thalavar/treasure-hunt)** — *A mobile-friendly scavenger game that tracks live coordinates via the browser Geolocation API and calculates geodesic distances to target objects using the Haversine formula.* ([Live Link](https://treasure.sagarthalavar.in))
+*   **[Files Sandbox: PDF & File Studio](https://files.sagarthalavar.in)** — *Offline-first browser sandbox utilizing PDF.js and Web Workers to merge/split PDFs, sketch signatures, compress images, and inspect CSV stats entirely client-side in RAM.* ([Live Link](https://files.sagarthalavar.in))
+*   **[PI Collision Simulator](https://github.com/sagar-thalavar/pi-collision-simulator)** — *1D elastic collision physics engine rendering conservation of momentum loops on HTML5 Canvas to calculate digit blocks of Pi ($\pi$).* ([Live Link](https://collision.sagarthalavar.in))
+*   **[Mouse Practice: ClickCraft](https://github.com/sagar-thalavar/Mouse-Click-Practice)** — *A browser-based training space for mouse precision, hand-eye coordination target tracking, and millisecond-accuracy reaction times.* ([Live Link](https://click.sagarthalavar.in))
+*   **[DataOps Zeta](https://data.sagarthalavar.in)** — *A web system designed for querying Neon serverless Postgres DBs and mapping table dependencies dynamically.* ([Live Link](https://data.sagarthalavar.in))
+*   **[Equilibrium: Task Planner](https://github.com/sagar-thalavar/last-one)** — *A college project designed as a personal task-balancing and scheduling application with local storage persistence.* ([Live Link](https://equilibrium.sagarthalavar.in))
 
 ---
 
