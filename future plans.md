@@ -15,3 +15,6 @@ This is a future plans doc.
 - **Colorful theme** — A third theme option alongside dark and light mode, with a colorful design built from scratch with a personal touch.
 
 - **10k users project** — Build a project that reaches at least 10,000 live users and add it to the portfolio.
+
+- **Interactive 3D Model** — Create an interactive, mobile-responsive, clean, professional, and simple 3D model integrated directly on the homepage.
+
