@@ -18,3 +18,6 @@ This is a future plans doc.
 
 - **Interactive 3D Model** — Create an interactive, mobile-responsive, clean, professional, and simple 3D model integrated directly on the homepage.
 
+- **Secure Credentials Vault (SafeEnv)** — Build a highly secure client-side utility/page designed to store, manage, and encrypt `.env` credentials in the safest way possible, enabling developers to protect their environment secrets.
+
+
