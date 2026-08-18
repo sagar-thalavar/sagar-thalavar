@@ -46,9 +46,9 @@ Here are the projects I have built and deployed live:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sagar-thalavar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&hide=issues,contribs&cb=2026-08-15" alt="Sagar's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sagar-thalavar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&hide=issues,contribs&cb=2026-08-18" alt="Sagar's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=sagar-thalavar&theme=tokyonight&hide_border=true&cb=2026-08-15" alt="Sagar's Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=sagar-thalavar&theme=tokyonight&hide_border=true&cb=2026-08-18" alt="Sagar's Contribution Streak" />
 </p>
 
 ---
